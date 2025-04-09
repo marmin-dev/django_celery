@@ -8,4 +8,4 @@ def celery_test(request, par1, par2):
         print(e)
 
 def git_tag_test(request):
-    return
+    return 1
